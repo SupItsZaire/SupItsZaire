@@ -1,16 +1,14 @@
-## Hi there 👋
+[![Moved to Codeberg](https://img.shields.io/badge/moved%20to-Codeberg-2185d0?style=for-the-badge\&logo=codeberg)](https://codeberg.org/supitszaire)
 
-<!--
-**SupItsZaire/SupItsZaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi! i am claire!
+### @supitszaire • she/her
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+but unfortunately, you have stumbled upon my github which is no longer active as of march 16th, 2026.
+
+i personally do not like the changes github has been going through, so i switched to codeberg for now!
+
+all of my code has been mirrored and all of these repos are now read-only on github.
+
+come find me: https://codeberg.org/supitszaire
